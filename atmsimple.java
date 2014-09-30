@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class atmsimple {
 
 public static void main(String[] args) {
-int pilih, saldo = 0, tabung, tarik, temp;
+int pilih, saldo = 10000000, tabung, tarik, temp;
 while (true) {
 
 Scanner sc = new Scanner(System.in);
